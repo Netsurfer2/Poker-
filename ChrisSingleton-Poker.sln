@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChrisSingleton-Poker", "ChrisSingleton-Poker\ChrisSingleton-Poker.csproj", "{CEC94A3C-80C0-4F30-9650-DF3920CDF779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardLibrary", "CardLibrary\CardLibrary.csproj", "{A4AA5E4F-862F-4FAA-96D9-5759B6CA48EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEC94A3C-80C0-4F30-9650-DF3920CDF779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC94A3C-80C0-4F30-9650-DF3920CDF779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC94A3C-80C0-4F30-9650-DF3920CDF779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC94A3C-80C0-4F30-9650-DF3920CDF779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4AA5E4F-862F-4FAA-96D9-5759B6CA48EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4AA5E4F-862F-4FAA-96D9-5759B6CA48EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4AA5E4F-862F-4FAA-96D9-5759B6CA48EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4AA5E4F-862F-4FAA-96D9-5759B6CA48EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

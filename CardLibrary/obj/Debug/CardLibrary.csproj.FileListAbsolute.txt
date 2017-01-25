@@ -1,0 +1,89 @@
+C:\Users\chris.singleton\Desktop\ChrisSingleton-Poker.zip\ChrisSingleton-Poker\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\chris.singleton\Desktop\ChrisSingleton-Poker.zip\ChrisSingleton-Poker\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\chris.singleton\Desktop\ChrisSingleton-Poker.zip\ChrisSingleton-Poker\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+C:\Users\chris.singleton\Desktop\ChrisSingleton-Poker.zip\ChrisSingleton-Poker\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\chris.singleton\Desktop\ChrisSingleton-Poker.zip\ChrisSingleton-Poker\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Prog 120\Week6\ChrisSingleton-Poker.zip\ChrisSingleton-Poker.zip\ChrisSingleton-Poker\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Prog 120\Week6\ChrisSingleton-Poker.zip\ChrisSingleton-Poker.zip\ChrisSingleton-Poker\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Prog 120\Week6\ChrisSingleton-Poker.zip\ChrisSingleton-Poker.zip\ChrisSingleton-Poker\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+C:\Prog 120\Week6\ChrisSingleton-Poker.zip\ChrisSingleton-Poker.zip\ChrisSingleton-Poker\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Prog 120\Week6\ChrisSingleton-Poker.zip\ChrisSingleton-Poker.zip\ChrisSingleton-Poker\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Prog 120\Week6\ChrisSingleton-Poker\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Prog 120\Week6\ChrisSingleton-Poker\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Prog 120\Week6\ChrisSingleton-Poker\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+C:\Prog 120\Week6\ChrisSingleton-Poker\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Prog 120\Week6\ChrisSingleton-Poker\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\chris.singleton\Desktop\ChrisSingleton-Poker\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\chris.singleton\Desktop\ChrisSingleton-Poker\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\chris.singleton\Desktop\ChrisSingleton-Poker\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+C:\Users\chris.singleton\Desktop\ChrisSingleton-Poker\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\chris.singleton\Desktop\ChrisSingleton-Poker\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\chris.singleton\Desktop\ChrisSingleton-PokerHW7\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\chris.singleton\Desktop\ChrisSingleton-PokerHW7\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\chris.singleton\Desktop\ChrisSingleton-PokerHW7\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+C:\Users\chris.singleton\Desktop\ChrisSingleton-PokerHW7\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\chris.singleton\Desktop\ChrisSingleton-PokerHW7\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Prog 120\Week7\ChrisSingleton-PokerHW7\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Prog 120\Week7\ChrisSingleton-PokerHW7\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Prog 120\Week7\ChrisSingleton-PokerHW7\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+C:\Prog 120\Week7\ChrisSingleton-PokerHW7\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Prog 120\Week7\ChrisSingleton-PokerHW7\CardLibrary\obj\Debug\CardLibrary.pdb
+G:\Bellevue College (Chris)\Programming\PROG 120\Week7 (Poker Phase2)\ChrisSingleton-PokerHW7_v2-1\CardLibrary\bin\Debug\CardLibrary.dll
+G:\Bellevue College (Chris)\Programming\PROG 120\Week7 (Poker Phase2)\ChrisSingleton-PokerHW7_v2-1\CardLibrary\bin\Debug\CardLibrary.pdb
+G:\Bellevue College (Chris)\Programming\PROG 120\Week7 (Poker Phase2)\ChrisSingleton-PokerHW7_v2-1\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+G:\Bellevue College (Chris)\Programming\PROG 120\Week7 (Poker Phase2)\ChrisSingleton-PokerHW7_v2-1\CardLibrary\obj\Debug\CardLibrary.dll
+G:\Bellevue College (Chris)\Programming\PROG 120\Week7 (Poker Phase2)\ChrisSingleton-PokerHW7_v2-1\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\chris.singleton\Desktop\ChrisSingleton-PokerHW7_v2\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\chris.singleton\Desktop\ChrisSingleton-PokerHW7_v2\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\chris.singleton\Desktop\ChrisSingleton-PokerHW7_v2\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+C:\Users\chris.singleton\Desktop\ChrisSingleton-PokerHW7_v2\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\chris.singleton\Desktop\ChrisSingleton-PokerHW7_v2\CardLibrary\obj\Debug\CardLibrary.pdb
+G:\Bellevue College (Chris)\Programming\PROG 120\Week7 (Poker Phase2)\Submitted\ChrisSingleton-PokerHW7_v2\CardLibrary\bin\Debug\CardLibrary.dll
+G:\Bellevue College (Chris)\Programming\PROG 120\Week7 (Poker Phase2)\Submitted\ChrisSingleton-PokerHW7_v2\CardLibrary\bin\Debug\CardLibrary.pdb
+G:\Bellevue College (Chris)\Programming\PROG 120\Week7 (Poker Phase2)\Submitted\ChrisSingleton-PokerHW7_v2\CardLibrary\obj\Debug\CardLibrary.dll
+G:\Bellevue College (Chris)\Programming\PROG 120\Week7 (Poker Phase2)\Submitted\ChrisSingleton-PokerHW7_v2\CardLibrary\obj\Debug\CardLibrary.pdb
+G:\Bellevue College (Chris)\Programming\PROG 120\Week7 (Poker Phase2)\Submitted\ChrisSingleton-PokerHW7_v2\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+K:\PROG 120\Week8\ChrisSingleton-PokerHW7_v3\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+K:\PROG 120\Week8\ChrisSingleton-PokerHW7_v3\CardLibrary\obj\Debug\CardLibrary.dll
+K:\PROG 120\Week8\ChrisSingleton-PokerHW7_v3\CardLibrary\obj\Debug\CardLibrary.pdb
+K:\PROG 120\Week8\ChrisSingleton-PokerHW7_v3\CardLibrary\bin\Debug\CardLibrary.dll
+K:\PROG 120\Week8\ChrisSingleton-PokerHW7_v3\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\chris.singleton\Desktop\ChrisSingleton-PokerHW7_v3\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\chris.singleton\Desktop\ChrisSingleton-PokerHW7_v3\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\chris.singleton\Desktop\ChrisSingleton-PokerHW7_v3\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+C:\Users\chris.singleton\Desktop\ChrisSingleton-PokerHW7_v3\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\chris.singleton\Desktop\ChrisSingleton-PokerHW7_v3\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\chris.singleton\Desktop\ChrisSingleton-Poker-Final\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\chris.singleton\Desktop\ChrisSingleton-Poker-Final\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\chris.singleton\Desktop\ChrisSingleton-Poker-Final\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\chris.singleton\Desktop\ChrisSingleton-Poker-Final\CardLibrary\obj\Debug\CardLibrary.pdb
+K:\PROG 120\Week11 (Poker_Final)\ChrisSingleton-Poker-Final\CardLibrary\bin\Debug\CardLibrary.dll
+K:\PROG 120\Week11 (Poker_Final)\ChrisSingleton-Poker-Final\CardLibrary\bin\Debug\CardLibrary.pdb
+K:\PROG 120\Week11 (Poker_Final)\ChrisSingleton-Poker-Final\CardLibrary\obj\Debug\CardLibrary.dll
+K:\PROG 120\Week11 (Poker_Final)\ChrisSingleton-Poker-Final\CardLibrary\obj\Debug\CardLibrary.pdb
+E:\PROG 120\Week11 (Poker_Final)\ChrisSingleton-Poker-Final\CardLibrary\bin\Debug\CardLibrary.dll
+E:\PROG 120\Week11 (Poker_Final)\ChrisSingleton-Poker-Final\CardLibrary\bin\Debug\CardLibrary.pdb
+E:\PROG 120\Week11 (Poker_Final)\ChrisSingleton-Poker-Final\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+E:\PROG 120\Week11 (Poker_Final)\ChrisSingleton-Poker-Final\CardLibrary\obj\Debug\CardLibrary.dll
+E:\PROG 120\Week11 (Poker_Final)\ChrisSingleton-Poker-Final\CardLibrary\obj\Debug\CardLibrary.pdb
+K:\PROG 120\Week11 (Poker_Final)\ChrisSingleton-Poker-Final\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+C:\prog 120\Week11 (Poker_Final)\ChrisSingleton-Poker-Final\CardLibrary\bin\Debug\CardLibrary.dll
+C:\prog 120\Week11 (Poker_Final)\ChrisSingleton-Poker-Final\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\prog 120\Week11 (Poker_Final)\ChrisSingleton-Poker-Final\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+C:\prog 120\Week11 (Poker_Final)\ChrisSingleton-Poker-Final\CardLibrary\obj\Debug\CardLibrary.dll
+C:\prog 120\Week11 (Poker_Final)\ChrisSingleton-Poker-Final\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\chris.singleton\Desktop\ChrisSingleton-Poker-Final\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+K:\PROG 120\Week11 (Poker_Final)\Submit\ChrisSingleton-Poker-Final\CardLibrary\bin\Debug\CardLibrary.dll
+K:\PROG 120\Week11 (Poker_Final)\Submit\ChrisSingleton-Poker-Final\CardLibrary\bin\Debug\CardLibrary.pdb
+K:\PROG 120\Week11 (Poker_Final)\Submit\ChrisSingleton-Poker-Final\CardLibrary\obj\Debug\CardLibrary.dll
+K:\PROG 120\Week11 (Poker_Final)\Submit\ChrisSingleton-Poker-Final\CardLibrary\obj\Debug\CardLibrary.pdb
+K:\PROG 120\Week11 (Poker_Final)\Submit\ChrisSingleton-Poker-Final\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+K:\PROG 120\Week11 (Poker_Final)\Best\ChrisSingleton-Poker-Best\CardLibrary\bin\Debug\CardLibrary.dll
+K:\PROG 120\Week11 (Poker_Final)\Best\ChrisSingleton-Poker-Best\CardLibrary\bin\Debug\CardLibrary.pdb
+K:\PROG 120\Week11 (Poker_Final)\Best\ChrisSingleton-Poker-Best\CardLibrary\obj\Debug\CardLibrary.dll
+K:\PROG 120\Week11 (Poker_Final)\Best\ChrisSingleton-Poker-Best\CardLibrary\obj\Debug\CardLibrary.pdb
+G:\Bellevue College (Chris)\Programming\PROG 120\Week11 (Poker_Final)\Best\ChrisSingleton-Poker-Best\CardLibrary\bin\Debug\CardLibrary.dll
+G:\Bellevue College (Chris)\Programming\PROG 120\Week11 (Poker_Final)\Best\ChrisSingleton-Poker-Best\CardLibrary\bin\Debug\CardLibrary.pdb
+G:\Bellevue College (Chris)\Programming\PROG 120\Week11 (Poker_Final)\Best\ChrisSingleton-Poker-Best\CardLibrary\obj\Debug\CardLibrary.dll
+G:\Bellevue College (Chris)\Programming\PROG 120\Week11 (Poker_Final)\Best\ChrisSingleton-Poker-Best\CardLibrary\obj\Debug\CardLibrary.pdb
+G:\Bellevue College (Chris)\Programming\PROG 120\Week11 (Poker_Final)\Best\ChrisSingleton-Poker-Best\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
